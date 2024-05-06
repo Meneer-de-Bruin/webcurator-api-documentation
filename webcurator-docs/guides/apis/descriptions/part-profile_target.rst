@@ -15,7 +15,7 @@ profile         String  Optional
 =============== ======= ========
 
 | **id**
-| A list of all profiles, with their id and name, can be retrieved with the API :doc: `/guides/apis/api-profiles_GET`.
+| A list of all profiles, with their id and name, can be retrieved with the API :doc:`/guides/apis/api-profiles_GET`.
 
 .. include:: /guides/apis/descriptions/desc-harvesterType.rst
 

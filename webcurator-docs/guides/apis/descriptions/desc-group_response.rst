@@ -11,7 +11,7 @@ description  List    Optional
 access       List    Optional
 ============ ======= ========
 
-.. include:: /guides/apis/descriptions/part-general_group_response.rst
+.. include:: /guides/apis/descriptions/part-general_group.rst
 
 .. include:: /guides/apis/descriptions/part-members_group.rst
 

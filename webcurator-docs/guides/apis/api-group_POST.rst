@@ -4,7 +4,7 @@ Create a group.
 
 Request
 -------
-``https://--WCT_base--/api/v1/groups/{group-id}``
+``https://--WCT_base--/api/v1/groups``
 
 Header
 ------

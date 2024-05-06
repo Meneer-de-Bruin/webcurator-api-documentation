@@ -5,7 +5,7 @@ A list of general properties that belong to a group. This contains the following
 
 =============== ====== ========
 **general**
---------------------------------
+-------------------------------
 id              Number Required
 name            String Required
 description     String Optional
@@ -18,6 +18,9 @@ dateTo          Date   Optional
 harvestType     Number Required
 =============== ====== ========
 
+**id**
+.. include:: /guides/apis/descriptions/desc-systemGenerated.rst
+
 .. include:: /guides/apis/descriptions/desc-type_group.rst
 
 .. include:: /guides/apis/descriptions/desc-owner.rst
@@ -29,6 +32,6 @@ harvestType     Number Required
 .. include:: /guides/apis/descriptions/desc-formatDate.rst
 
 | **harvestType**
-Can have the follwing values:
-*1 => Generate a single Harvest Result for this group [default]
-*2 => Generate one Harvest Result per member
+|Can have the following values:
+#. Generate a single Harvest Result for this group [default]
+#. Generate one Harvest Result per member

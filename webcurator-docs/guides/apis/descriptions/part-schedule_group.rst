@@ -10,7 +10,7 @@ schedules           List    Optional
 =================== ======= ========
 
 | **schedules**
-| A list of schedules that belong to a target containing the following information:
+| A list of schedules that belong to a group containing the following information:
 
 ================= ======= ========
 **schedules**

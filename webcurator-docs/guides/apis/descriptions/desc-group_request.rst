@@ -3,7 +3,6 @@
 -----------------------------
 general      List    Required
 members      List    Optional
-memberOf     List    Optional
 profile      List    Optional
 schedule     List    Optional
 annotations  List    Optional
@@ -11,7 +10,7 @@ description  List    Optional
 access       List    Optional
 ============ ======= ========
 
-.. include:: /guides/apis/descriptions/part-general_group_request.rst
+.. include:: /guides/apis/descriptions/part-general_group.rst
 
 .. include:: /guides/apis/descriptions/part-members_group.rst
 
