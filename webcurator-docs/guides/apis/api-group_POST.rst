@@ -6,6 +6,8 @@ Request
 -------
 ``https://--WCT_base--/api/v1/groups``
 
+Members can not be added to a group on creation as this list might become too large. Individual members can only be added (link) and removed (link).
+
 Header
 ------
 .. include:: /guides/apis/descriptions/desc-header-authentication.rst
