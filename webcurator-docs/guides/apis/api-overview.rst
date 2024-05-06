@@ -34,6 +34,7 @@ Group
    :maxdepth: 1
    
    api-groups_GET.rst
+   api-group_POST.rst
    api-group_GET.rst
    api-group_DELETE.rst
    api-group_states_GET.rst

@@ -1,0 +1,41 @@
+Create Group (POST)
+=====================
+Create a group.
+
+Request
+-------
+``https://--WCT_base--/api/v1/groups/{group-id}``
+
+Header
+------
+.. include:: /guides/apis/descriptions/desc-header-authentication.rst
+
+Body
+----
+.. include:: /guides/apis/descriptions/desc-group_request.rst
+
+Response
+--------
+201: OK
+
+.. include:: /guides/apis/descriptions/desc-response-body-empty.rst
+
+The HTTP Header Location contains the URL to retrieve (GET) the inserted group
+as described in :doc:`/guides/apis/api-group_GET`.
+
+Errors
+------
+If any error is raised no output is returned. Nor is the group created.
+
+=== ==========================================================================
+400 Bad request, non-existing target-id has been given.
+400 Bad request, non-existing part has been given.
+403 Not authorized, user is no longer logged in.
+405 Method not allowed, only POST, GET, PUT, DELETE are allowed.
+=== ==========================================================================
+
+Example
+-------
+.. code-block:: linux
+
+  TODO
