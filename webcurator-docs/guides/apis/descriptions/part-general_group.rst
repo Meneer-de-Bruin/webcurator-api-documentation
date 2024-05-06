@@ -18,7 +18,7 @@ dateTo          Date   Optional
 harvestType     Number Required
 =============== ====== ========
 
-**id**
+| **id**
 .. include:: /guides/apis/descriptions/desc-systemGenerated.rst
 
 .. include:: /guides/apis/descriptions/desc-type_group.rst
@@ -32,6 +32,6 @@ harvestType     Number Required
 .. include:: /guides/apis/descriptions/desc-formatDate.rst
 
 | **harvestType**
-|Can have the following values:
+Can have the following values:
 #. Generate a single Harvest Result for this group [default]
 #. Generate one Harvest Result per member
