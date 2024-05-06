@@ -2,10 +2,6 @@ Update Target (PUT)
 ===================
 Update a specific target or part therof.
 
-Version
--------
-1.0.0
-
 Request
 -------
 ``https://--WCT_base--/api/v1/targets/{target-id}``

@@ -3,10 +3,6 @@ Retrieve Profile states (GET)
 
 Returns a list of all the states that a profile can have, including the description of each specific state.
 
-Version
--------
-1.0.0
-
 Request
 -------
 ``https://--WCT_base--/api/v1/profiles/states``

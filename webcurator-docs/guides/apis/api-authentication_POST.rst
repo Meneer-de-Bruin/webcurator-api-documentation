@@ -9,10 +9,6 @@ be added to the HTTP header of each call:
 
 .. include:: /guides/apis/descriptions/desc-header-authentication.rst
 
-Version
--------
-1.0.0
-
 Request
 -------
 ``https://--WCT_base--/auth/v1/token``

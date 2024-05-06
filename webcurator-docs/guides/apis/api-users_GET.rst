@@ -3,10 +3,6 @@ Retrieve Users (GET)
 
 Returns all users with a subset of the available information based upon given filter and sorting.
 
-Version
--------
-1.0.0
-
 Request
 -------
 ``https://--WCT_base--/api/v1/users``

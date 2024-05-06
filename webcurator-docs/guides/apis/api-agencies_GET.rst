@@ -3,10 +3,6 @@ Retrieve Agencies (GET)
 
 Returns a list of all the agencies.
 
-Version
--------
-1.0.0
-
 Request
 -------
 ``https://--WCT_base--/api/v1/agencies``

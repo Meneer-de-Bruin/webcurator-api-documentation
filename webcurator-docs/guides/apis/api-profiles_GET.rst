@@ -3,10 +3,6 @@ Retrieve Profiles (GET)
 
 Returns all profiles with a subset of the available information based upon given filter.
 
-Version
--------
-1.0.0
-
 Request
 -------
 ``https://--WCT_base--/api/v1/profiles``

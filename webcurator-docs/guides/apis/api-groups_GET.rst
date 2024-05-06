@@ -3,10 +3,6 @@ Retrieve Groups (GET)
 
 Returns all groups with a subset of the available information based upon given filter.
 
-Version
--------
-1.0.0
-
 Request
 -------
 ``https://--WCT_base--/api/v1/groups``

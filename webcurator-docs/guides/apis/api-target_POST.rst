@@ -2,10 +2,6 @@ Create Target (POST)
 ====================
 Create a target.
 
-Version
--------
-1.0.0
-
 Request
 -------
 ``https://--WCT_base--/api/v1/targets``

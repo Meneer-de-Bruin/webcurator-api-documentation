@@ -3,10 +3,6 @@ Retrieve Harvest Agents (GET)
 
 Returns a list of all the harvest agents.
 
-Version
--------
-1.0.0
-
 Request
 -------
 ``https://--WCT_base--/api/v1/harvest-agents``

@@ -4,10 +4,6 @@ Update a specific target instance or part therof.
 
 Note that not all fields are updatable. If non-updatable fields are given in the request this will lead to an error.
 
-Version
--------
-1.0.0
-
 Request
 -------
 ``https://--WCT_base--/api/v1/target_instances/{target_instance-id}``

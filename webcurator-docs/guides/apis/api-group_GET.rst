@@ -2,10 +2,6 @@ Retrieve Group (GET)
 =====================
 Returns all information for a specific group.
 
-Version
--------
-1.0.0
-
 Request
 -------
 ``https://--WCT_base--/api/v1/groups/{group-id}``

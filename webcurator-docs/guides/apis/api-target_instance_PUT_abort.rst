@@ -2,10 +2,6 @@ Abort Target Instance (PUT)
 ===========================
 Aborts a running target instance.
 
-Version
--------
-1.0.0
-
 Request
 -------
 ``https://--WCT_base--/api/v1/target-instances/{target-instance-id}/abort``

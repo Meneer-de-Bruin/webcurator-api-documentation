@@ -3,10 +3,6 @@ Retrieve Group types (GET)
 
 Returns a list of all the types that a group can have.
 
-Version
--------
-1.0.0
-
 Request
 -------
 ``https://--WCT_base--/api/v1/groups/types``
