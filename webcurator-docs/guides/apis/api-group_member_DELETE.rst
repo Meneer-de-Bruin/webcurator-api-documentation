@@ -4,7 +4,8 @@ Remove a target or group from a group.
 
 Request
 -------
-``https://--WCT_base--/api/v1/groups/{group-id}/members/targets/{target-id}`` OR ``https://--WCT_base--/api/v1/groups/{group-id}/members/groups/{group-id}``
+| ``https://--WCT_base--/api/v1/groups/{group-id}/members/{target-id}`` OR 
+| ``https://--WCT_base--/api/v1/groups/{group-id}/members/{group-id}``
 
 Header
 ------
@@ -12,7 +13,7 @@ Header
 
 Body
 ----
-.. include:: /guides/apis/descriptions/desc-request-body-empty.rst
+.. include:: /guides/apis/descriptions/desc-group-members-type.rst
 
 Response
 --------
