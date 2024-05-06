@@ -14,8 +14,6 @@ access       List    Optional
 
 .. include:: /guides/apis/descriptions/part-members_group.rst
 
-.. include:: /guides/apis/descriptions/part-memberOf_group.rst
-
 .. include:: /guides/apis/descriptions/part-profile_target.rst
 
 .. include:: /guides/apis/descriptions/part-schedule_group.rst

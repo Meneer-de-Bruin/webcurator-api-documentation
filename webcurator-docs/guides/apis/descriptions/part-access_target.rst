@@ -14,7 +14,7 @@ displayNote         String  Optional
 =================== ======= ========
 
 | **accessZone**
-| The access zone of a target is an integer with the following values:
+| The access zone of a target or group is an integer with the following values:
 
 ======== ===============
 **Zone** **Description**
