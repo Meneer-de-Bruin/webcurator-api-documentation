@@ -34,7 +34,10 @@ Group
    :maxdepth: 1
    
    api-groups_GET.rst
-   toctree-seperator.rst
+
+.. toctree::
+   :maxdepth: 1
+   
    api-group_POST.rst
    api-group_GET.rst
    api-group_PUT.rst
