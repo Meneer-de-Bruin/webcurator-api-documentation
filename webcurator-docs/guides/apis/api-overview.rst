@@ -34,6 +34,7 @@ Group
    :maxdepth: 1
    
    api-groups_GET.rst
+   |---------------------
    api-group_POST.rst
    api-group_GET.rst
    api-group_PUT.rst
@@ -80,10 +81,18 @@ Targets
    :maxdepth: 1
 
    api-targets_GET
+
+.. toctree::
+   :maxdepth: 1
+   
    api-target_POST
    api-target_GET
    api-target_PUT
    api-target_DELETE
+
+.. toctree::
+   :maxdepth: 1
+   
    api-target_states_GET
    api-target_scheduleTypes_GET
    
@@ -93,15 +102,27 @@ Target Instances
    :maxdepth: 1
 
    api-target_instances_GET
+
+.. toctree::
+   :maxdepth: 1
+   
    api-target_instance_GET
    api-target_instance_PUT
+   api-target_instance_DELETE
+   
+.. toctree::
+   :maxdepth: 1
+   
    api-target_instance_PUT_abort
    api-target_instance_PUT_patch-harvest
    api-target_instance_PUT_pause
    api-target_instance_PUT_resume
    api-target_instance_PUT_start
    api-target_instance_PUT_stop
-   api-target_instance_DELETE
+
+.. toctree::
+   :maxdepth: 1
+   
    api-target_instance_states_GET
    api-harvest_result_states_GET
 
