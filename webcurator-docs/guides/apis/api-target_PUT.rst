@@ -39,7 +39,7 @@ Header
 
 Body
 ----
-.. include:: /guides/apis/descriptions/desc-target_request.rst
+.. include:: /guides/apis/descriptions/desc-target.rst
 
 Response
 --------

@@ -11,7 +11,7 @@ groups       List    Optional
 access       List    Optional
 ============ ======= ========
 
-.. include:: /guides/apis/descriptions/part-general_target_request.rst
+.. include:: /guides/apis/descriptions/part-general_target.rst
 
 .. include:: /guides/apis/descriptions/part-seeds_target.rst
 
@@ -19,7 +19,7 @@ access       List    Optional
 
 .. include:: /guides/apis/descriptions/part-schedule_target.rst
 
-.. include:: /guides/apis/descriptions/part-annotations_target_request.rst
+.. include:: /guides/apis/descriptions/part-annotations_target.rst
 
 .. include:: /guides/apis/descriptions/part-description_target.rst
 

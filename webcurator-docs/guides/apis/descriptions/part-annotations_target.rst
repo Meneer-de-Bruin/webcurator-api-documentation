@@ -28,9 +28,14 @@ alert Boolean Required
 ===== ======= ========
 
 | **date**
+.. include:: /guides/apis/descriptions/desc-systemGenerated.rst
+
 .. include:: /guides/apis/descriptions/desc-formatDate.rst
 
 .. include:: /guides/apis/descriptions/desc-user.rst
+
+| **user**
+.. include:: /guides/apis/descriptions/desc-systemGenerated.rst
 			
 ---------------------
 **Part: selection**

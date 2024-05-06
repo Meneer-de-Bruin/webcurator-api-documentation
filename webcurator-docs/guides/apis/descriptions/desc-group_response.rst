@@ -21,7 +21,7 @@ access       List    Optional
 
 .. include:: /guides/apis/descriptions/part-schedule_group.rst
 
-.. include:: /guides/apis/descriptions/part-annotations_group_response.rst
+.. include:: /guides/apis/descriptions/part-annotations_group.rst
 
 .. include:: /guides/apis/descriptions/part-description_target.rst
 

@@ -41,7 +41,7 @@ Response
 --------
 200: OK
 
-.. include:: /guides/apis/descriptions/desc-target_response.rst
+.. include:: /guides/apis/descriptions/desc-target.rst
 
 Errors
 ------
