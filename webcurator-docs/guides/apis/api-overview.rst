@@ -38,6 +38,8 @@ Group
    api-group_GET.rst
    api-group_PUT.rst
    api-group_DELETE.rst
+   api-group_member_POST.rst
+   api-group_member_DELETE.rst
    api-group_states_GET.rst
    api-group_types_GET.rst
 

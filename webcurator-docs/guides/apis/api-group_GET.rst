@@ -1,5 +1,5 @@
 Retrieve Group (GET)
-=====================
+====================
 Returns all information for a specific group.
 
 Request
