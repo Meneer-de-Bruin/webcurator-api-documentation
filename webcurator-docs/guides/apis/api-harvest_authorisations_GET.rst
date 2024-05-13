@@ -8,11 +8,11 @@ Request
 ``https://--WCT_base--/api/v1/harvest-authorisations``
 
 Header
-------
+^^^^^^
 .. include:: /guides/apis/descriptions/desc-header-authentication.rst
 
 Body
-----
+^^^^
 .. include:: /guides/apis/descriptions/desc-query-method.rst
 
 ====== ====== ========

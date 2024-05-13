@@ -1,5 +1,5 @@
 Retrieve Profile states (GET)
-===========================================
+=============================
 
 Returns a list of all the states that a profile can have, including the description of each specific state.
 
@@ -8,11 +8,11 @@ Request
 ``https://--WCT_base--/api/v1/profiles/states``
 
 Header
-------
+^^^^^^
 .. include:: /guides/apis/descriptions/desc-header-authentication.rst
 
 Body
-----
+^^^^
 .. include:: /guides/apis/descriptions/desc-request-body-empty.rst
 
 Response

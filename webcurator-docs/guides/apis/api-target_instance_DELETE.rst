@@ -7,11 +7,11 @@ Request
 ``https://--WCT_base--/api/v1/target_instances/{target_instance-id}``
 
 Header
-------
+^^^^^^
 .. include:: /guides/apis/descriptions/desc-header-authentication.rst
 
 Body
-----
+^^^^
 .. include:: /guides/apis/descriptions/desc-request-body-empty.rst
 
 Response

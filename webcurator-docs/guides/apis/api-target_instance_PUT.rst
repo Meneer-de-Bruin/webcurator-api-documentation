@@ -16,11 +16,11 @@ Each part must contain at least one field that needs updating. Only the fields g
 Fields of mutable lists (annotations.annotations) can not be updated individually: if a list is present in the input, the corresponding list attribute of the target will be overwritten with the new list. Fields of profile.overrides, which is a fixed list, can be updated individually.
 
 Header
-------
+^^^^^^
 .. include:: /guides/apis/descriptions/desc-header-authentication.rst
 
 Body
-----
+^^^^
 .. include:: /guides/apis/descriptions/desc-target_instance_request.rst
 
 Response

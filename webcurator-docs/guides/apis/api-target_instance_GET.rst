@@ -28,11 +28,11 @@ Also the following parts can be retrieved separately by adding the part name to 
 +-----------------+
 
 Header
-------
+^^^^^^
 .. include:: /guides/apis/descriptions/desc-header-authentication.rst
 
 Body
-----
+^^^^
 .. include:: /guides/apis/descriptions/desc-request-body-empty.rst
 
 Response

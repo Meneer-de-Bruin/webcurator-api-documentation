@@ -8,11 +8,11 @@ Request
 | ``https://--WCT_base--/api/v1/groups/{group-id}/members/{group-id}``
 
 Header
-------
+^^^^^^
 .. include:: /guides/apis/descriptions/desc-header-authentication.rst
 
 Body
-----
+^^^^
 .. include:: /guides/apis/descriptions/desc-group-members-type.rst
 
 Response

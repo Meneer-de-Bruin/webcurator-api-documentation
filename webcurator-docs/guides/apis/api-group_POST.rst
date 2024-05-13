@@ -9,11 +9,11 @@ Request
 Members can not be added to a group on creation as this list might become too large. Individual members can only be added (link) and removed (link).
 
 Header
-------
+^^^^^^
 .. include:: /guides/apis/descriptions/desc-header-authentication.rst
 
 Body
-----
+^^^^
 .. include:: /guides/apis/descriptions/desc-group_request.rst
 
 Response

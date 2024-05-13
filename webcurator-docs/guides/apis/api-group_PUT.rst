@@ -32,11 +32,11 @@ Members can not be added to or removed from a group on update as this list might
 +-------------+
 
 Header
-------
+^^^^^^
 .. include:: /guides/apis/descriptions/desc-header-authentication.rst
 
 Body
-----
+^^^^
 .. include:: /guides/apis/descriptions/desc-group_request.rst
 
 Response

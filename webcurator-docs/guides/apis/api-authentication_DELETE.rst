@@ -11,11 +11,11 @@ Request
 .. include:: /guides/apis/descriptions/desc-token.rst
 
 Header
-------
+^^^^^^
 There are no specific header fields for this API.
 
 Body
-----
+^^^^
 .. include:: /guides/apis/descriptions/desc-request-body-empty.rst
 
 Response

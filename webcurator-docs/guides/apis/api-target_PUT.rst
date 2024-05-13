@@ -34,11 +34,11 @@ Fields of mutable lists (seeds, schedule.schedules, annotations.annotations, gro
 +-------------+
 
 Header
-------
+^^^^^^
 .. include:: /guides/apis/descriptions/desc-header-authentication.rst
 
 Body
-----
+^^^^
 .. include:: /guides/apis/descriptions/desc-target.rst
 
 Response
