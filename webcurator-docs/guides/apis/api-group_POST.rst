@@ -6,7 +6,7 @@ Request
 -------
 ``https://--WCT_base--/api/v1/groups``
 
-Members can not be added to a group on creation as this list might become too large. Individual members can only be added (link) and removed (link).
+Members can not be added to a group on creation as this list might become too large. Individual members can only be added (:doc:`/guides/apis/api-group_member_POST`) and removed (:doc:`/guides/apis/api-group_member_DELETE`).
 
 Header
 ^^^^^^
