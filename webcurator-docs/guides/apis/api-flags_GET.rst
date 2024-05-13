@@ -16,6 +16,8 @@ Body
 .. include:: /guides/apis/descriptions/desc-query-method.rst
 
 ====== ====== ========
+**Parameters**
+----------------------
 filter String Optional
 ====== ====== ========
 
