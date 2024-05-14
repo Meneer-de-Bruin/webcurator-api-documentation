@@ -115,7 +115,8 @@ Target Instances
    
 .. toctree::
    :maxdepth: 1
-   
+
+   api-target_instance_PUT_archive   
    api-target_instance_PUT_abort
    api-target_instance_PUT_patch-harvest
    api-target_instance_PUT_pause
