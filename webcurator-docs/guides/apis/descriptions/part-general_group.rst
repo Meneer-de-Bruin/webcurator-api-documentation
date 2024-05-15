@@ -1,6 +1,5 @@
------------------
 **part: general**
------------------
+^^^^^^^^^^^^^^^^^
 A list of general properties that belong to a group. This contains the following information:
 
 =============== ====== ========

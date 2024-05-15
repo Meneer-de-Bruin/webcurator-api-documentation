@@ -27,7 +27,7 @@ Authorisation
    :maxdepth: 1
    
    api-authorisations_GET
-   api-suthorisation_scope_GET
+   api-authorisation_scope_GET
    
 Flag
 ====
