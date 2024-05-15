@@ -1,6 +1,5 @@
----------------------
 **part: annotations**
----------------------
+^^^^^^^^^^^^^^^^^^^^^
 A list of annotations properties that belong to a group. This contains the following information:
 
 ============== ====== ========

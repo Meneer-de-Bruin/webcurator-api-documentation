@@ -1,6 +1,5 @@
------------------
 **part: profile**
------------------
+^^^^^^^^^^^^^^^^^
 A list of profile properties that belongs to a target or group. This contains the following information:
 
 =============== ======= ========

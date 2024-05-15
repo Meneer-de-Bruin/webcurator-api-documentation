@@ -1,6 +1,5 @@
-----------------
 **part: access**
-----------------
+^^^^^^^^^^^^^^^^
 A list of access properties that belong to a target or group. This contains the following information:
 
 =================== ======= ========
