@@ -3,7 +3,7 @@
 
 ================================ ================== ===================================================
 **Privilege**                    **Scope options**  **Grouping**
--------------------------------------------------------------------------------------------------------
+================================ ================== ===================================================
 LOGIN                            NONE               Authentication
 MODIFY_OWN_CREDENTIALS	         OWNER              Authentication
 CREATE_SITE	                     AGENCY             Manage Copying Permissions and Access Rights
