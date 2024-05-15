@@ -1,5 +1,5 @@
 Resume Target Instance (PUT)
-===========================
+============================
 Resume harvest of a target instance immediately.
 
 Request

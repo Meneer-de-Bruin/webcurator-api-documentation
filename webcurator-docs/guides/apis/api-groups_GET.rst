@@ -35,8 +35,6 @@ limit  Number Optional
 
 .. include:: /guides/apis/descriptions/desc-userId.rst
 
-.. include:: /guides/apis/descriptions/desc-groupType.rst
-
 .. include:: /guides/apis/descriptions/desc-type_group.rst
 
 .. include:: /guides/apis/descriptions/desc-state_group.rst

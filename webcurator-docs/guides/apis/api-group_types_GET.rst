@@ -1,6 +1,5 @@
 Retrieve Group types (GET)
 ==========================
-
 Returns a list of all the types that a group can have.
 
 Request
@@ -21,7 +20,7 @@ Response
 
 ===== ==== ========
 **Body**
---------------------
+-------------------
 types List Required
 ===== ==== ========
 

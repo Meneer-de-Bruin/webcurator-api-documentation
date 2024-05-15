@@ -1,5 +1,5 @@
 Retrieve Harvest Authorisations (GET)
-====================================
+=====================================
 
 Returns all harvest authorisations with a subset of the available information based upon given filter and sorting.
 

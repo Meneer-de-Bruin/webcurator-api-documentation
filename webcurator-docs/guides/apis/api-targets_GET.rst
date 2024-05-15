@@ -93,7 +93,7 @@ seeds        List   Required
 | **creationDate**
 .. include:: /guides/apis/descriptions/desc-formatDate.rst
 
-.. include:: /guides/apis/descriptions/desc-state_target_response.rst
+.. include:: /guides/apis/descriptions/desc-state_target.rst
 
 | **seeds**
 | A list of seeds containing the following information:
