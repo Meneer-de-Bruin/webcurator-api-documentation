@@ -21,6 +21,14 @@ Authentication
    api-authentication_POST
    api-authentication_DELETE
 
+Authorisation
+=============
+.. toctree::
+   :maxdepth: 1
+   
+   api-authorisations_GET
+   api-suthorisation_scope_GET
+   
 Flag
 ====
 .. toctree::
