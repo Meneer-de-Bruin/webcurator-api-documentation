@@ -36,7 +36,7 @@ Response
 **Body**
 ----------------------
 filter String Required
-scope  String Required
+scope  Number Required
 ====== ====== ========
 
 .. include:: /guides/apis/descriptions/desc-privilege_scope.rst

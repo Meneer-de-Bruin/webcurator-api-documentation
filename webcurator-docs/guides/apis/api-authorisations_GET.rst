@@ -34,7 +34,7 @@ privileges List Required
 **Body**
 -------------------------
 privilege String Required
-scope     String Required
+scope     Number Required
 ========= ====== ========
 
 .. include:: /guides/apis/descriptions/desc-privilege.rst
