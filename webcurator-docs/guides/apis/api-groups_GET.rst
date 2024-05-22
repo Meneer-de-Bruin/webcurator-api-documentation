@@ -68,7 +68,7 @@ The following information is returned per found group:
 ============ ====== ========
 **Body**
 ----------------------------
-groupId      Number Required
+id           Number Required
 name         String Required
 type         String Required
 agency       String Required

@@ -44,4 +44,8 @@ Example
 -------
 .. code-block:: linux
 
-  TODO
+  curl \
+  --location --request GET 'http://localhost/wct/auth/v1/groups/states' \
+  --header 'Content-Type: application/json' \
+  --header 'Authorization: Bearer <token>' \
+  --data ''

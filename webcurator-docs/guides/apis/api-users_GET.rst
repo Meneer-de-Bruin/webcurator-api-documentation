@@ -45,7 +45,7 @@ The following information is returned per found user:
 ============ ====== ========
 **Body**
 ----------------------------
-userId       Number Required
+id           Number Required
 userName     String Required
 firstName    String Required
 lastName     String Required

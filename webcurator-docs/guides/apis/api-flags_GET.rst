@@ -66,10 +66,7 @@ Example
 .. code-block:: linux
 
   curl \
-  --location --request GET 'http://kb006561i.clients.wpakb.kb.nl:8080/wct/api/v1/flags' \
+  --location --request GET 'http://localhost/wct/api/v1/flags' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer <token>' \
   --data ''
- 
- 
- 

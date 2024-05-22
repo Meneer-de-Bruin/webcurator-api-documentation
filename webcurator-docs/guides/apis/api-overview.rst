@@ -6,8 +6,8 @@ to use the string 'latest' to call upon the latest version of the api.
 
 If an api is deprecated and no longer supported then the error 404 'Not Found – the requested resource does not exist' is returned. 
 
-Agency
-======
+Agencies
+========
 .. toctree::
    :maxdepth: 1
 
@@ -21,23 +21,23 @@ Authentication
    api-authentication_POST
    api-authentication_DELETE
 
-Authorisation
-=============
+Authorisations
+==============
 .. toctree::
    :maxdepth: 1
    
    api-authorisations_GET
    api-authorisation_scope_GET
    
-Flag
-====
+Flags
+=====
 .. toctree::
    :maxdepth: 1
    
    api-flags_GET.rst
 
-Group
-=====
+Groups
+======
 .. toctree::
    :maxdepth: 1
    
@@ -78,8 +78,8 @@ Harvest Authorisations
    api-harvest_authorisations_GET.rst
    api-harvest_authorisation_states_GET.rst
    
-Profile
-=======
+Profiles
+========
 .. toctree::
    :maxdepth: 1
    
@@ -139,8 +139,8 @@ Target Instances
    api-harvest_result_states_GET
 
    
-User
-====
+Users
+=====
 .. toctree::
    :maxdepth: 1
    
