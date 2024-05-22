@@ -11,10 +11,10 @@ description     String Optional
 referenceNumber String Optional
 type            String Optional
 owner           String Required
-owner_info      String Optional  
+ownerInfo       String Optional  
 dateFrom        Date   Required
 dateTo          Date   Optional
-harvestType     Number Required
+sipType         Number Required
 =============== ====== ========
 
 | **id**
@@ -30,7 +30,7 @@ harvestType     Number Required
 | **dateTo**
 .. include:: /guides/apis/descriptions/desc-formatDate.rst
 
-| **harvestType**
+| **sipType**
 Can have the following values:
 #. Generate a single Harvest Result for this group [default]
 #. Generate one Harvest Result per member

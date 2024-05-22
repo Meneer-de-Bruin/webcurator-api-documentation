@@ -53,7 +53,7 @@ Example
 .. code-block:: linux
 
   curl \
-  --location --request GET 'http://kb006561i.clients.wpakb.kb.nl:8080/wct/api/v1/agencies' \
+  --location --request GET 'http://localhost/wct/auth/v1/agencies' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer <token>' \
   --data ''
