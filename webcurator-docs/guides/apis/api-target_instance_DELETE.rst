@@ -35,4 +35,7 @@ Example
 -------
 .. code-block:: linux
 
-  <TODO>
+  curl \
+  --location --request DELETE 'http://localhost/wct/api/v1/target-instances/<target_instance-id>' \
+  --header 'Authorization: Bearer <token>' \
+  --data ''

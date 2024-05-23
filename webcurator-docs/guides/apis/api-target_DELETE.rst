@@ -39,7 +39,7 @@ Example
 .. code-block:: linux
 
   curl \
-  --location --request DELETE 'http://localhost/wct/api/v1/targets/{target-id}' \
+  --location --request DELETE 'http://localhost/wct/api/v1/targets/<target-id>' \
   --header 'Authorization: Bearer <token>' \
   --header 'Content-Type: application/json' \
   --data ''

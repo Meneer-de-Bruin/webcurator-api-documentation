@@ -43,4 +43,8 @@ Example
 -------
 .. code-block:: linux
 
-  <TODO>
+  curl \
+  --location --request PUT 'http://localhost/wct/api/v1/target-instances/<target-instance-id>' \
+  --header 'Content-Type: application/json' \
+  --header 'Authorization: Bearer <token>' \
+  --data '{"general": {"owner": "demo"}}'
