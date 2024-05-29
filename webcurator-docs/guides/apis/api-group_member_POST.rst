@@ -13,11 +13,11 @@ Header
 
 Body
 ^^^^
-.. include:: /guides/apis/descriptions/desc-group-members-type.rst
+.. include:: /guides/apis/descriptions/desc-request-body-empty.rst
 
 Response
 --------
-201: OK
+200: OK
 
 .. include:: /guides/apis/descriptions/desc-response-body-empty.rst
 
@@ -27,7 +27,9 @@ If any error is raised no output is returned. Nor is the group created.
 
 === ==========================================================================
 400 Bad request, non-existing target-id has been given.
-400 Bad request, non-existing part has been given.
+400 Bad request, non-existing group-id has been given.
+400 Group already contains member with id <id>.
+400 No group or target with id <id> exists.
 403 Not authorized, user is no longer logged in.
 405 Method not allowed, only POST, GET, PUT, DELETE are allowed.
 === ==========================================================================
@@ -36,4 +38,7 @@ Example
 -------
 .. code-block:: linux
 
-  TODO
+  curl \
+  --location --request POST 'http://localhost/wct/api/v1/groups/<group-id>/members/<target-id>' \
+  --header 'Authorization: Bearer <token>' \
+  --data ''
