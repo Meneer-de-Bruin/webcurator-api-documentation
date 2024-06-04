@@ -41,7 +41,7 @@ scope  Number Required
 
 .. include:: /guides/apis/descriptions/desc-privilege_scope.rst
 
-If the user does not have the privilege an empty scope is returned.
+If the user does not have the privilege then the scope is: 500, 'NONE'.
 
 Errors
 ------
@@ -50,6 +50,7 @@ If any error is raised no output is returned.
 === ========================================================================================
 400 Bad Request, including reason why e.g. Unsupported or malformed sort spec <sortBy field>
 403 Not authorized, user is no longer logged in.
+404 Given privilige does not exist.
 405 Method not allowed, only GET is allowed.
 === ========================================================================================
 

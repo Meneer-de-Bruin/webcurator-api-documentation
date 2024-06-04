@@ -23,7 +23,7 @@ Response
 
 Errors
 ------
-If any error is raised no output is returned. Nor is the group created.
+If any error is raised no output is returned. Nor is a member added to the group.
 
 === ==========================================================================
 400 No group or target with id <id> exists.
