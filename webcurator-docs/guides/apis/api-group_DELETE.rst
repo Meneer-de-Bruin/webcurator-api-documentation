@@ -36,4 +36,5 @@ Example
 -------
 .. code-block:: linux
 
-  TODO
+	curl --location --request DELETE 'http://localhost/wct/api/v1/groups/<group-id>' \
+	--header 'Authorization: Bearer <token>'

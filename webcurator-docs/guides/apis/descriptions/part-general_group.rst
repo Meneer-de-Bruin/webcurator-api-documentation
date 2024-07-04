@@ -32,5 +32,11 @@ sipType         Number Required
 
 | **sipType**
 Can have the following values:
-1. Generate a single Harvest Result for this group [default]
-2. Generate one Harvest Result per member
+
++-------+-----------------------------------------------------------+
+| Value |                                                           |
++=======+===========================================================+
+|  1    | Generate a single Harvest Result for this group [default] |
++-------+-----------------------------------------------------------+
+|  2    | Generate one Harvest Result per member                    |
++-------+-----------------------------------------------------------+

@@ -63,4 +63,13 @@ Example
 -------
 .. code-block:: linux
 
-  TODO
+	curl --location --request PUT 'http://localhost/wct/api/v1/groups/<group-id>' \
+	--header 'Content-Type: application/json' \
+	--header 'Authorization: Bearer <token>' \
+	--data '{"general": {
+			 "description": "Changed description",
+			 "type": "thematic",
+			 "dateFrom": "1970-09-16T22:00:00.000+00:00",
+			 "sipType": 2
+		}
+	}'

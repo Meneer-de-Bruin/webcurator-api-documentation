@@ -40,4 +40,74 @@ Example
 -------
 .. code-block:: linux
 
-  TODO
+	curl --location 'http://localhost/wct/api/v1/groups' \
+	--header 'Content-Type: application/json' \
+	--header 'Authorization: Bearer <token>' \
+	--data '{"general": {
+				"owner": "demo",
+				"name" : "TEST - GROUP 2024-07-04T11:36:34.000+00:00"
+		}
+	}'
+	
+	curl --location 'http://localhost/wct/api/v1/groups' \
+	--header 'Content-Type: application/json' \
+	--header 'Authorization: Bearer <token>' \
+	--data '{
+    "general": {
+        "owner": "demo",
+        "name" : "TEST - GROUP 2024-07-04T12:24:45.000+00:00",
+        "description": "A test groep",
+        "type": "thematic",
+        "dateFrom": "2023-08-21T22:00:00.000+00:00",
+        "sipType": 1
+    },
+
+    "profile": {
+        "id": 1,
+        "imported": false,
+        "harvesterType": "HERITIRX3",
+        "name": "Default - KB",
+        "overrides": [
+            {
+                "id": "ignoreRobots",
+                "value": true,
+                "enabled": true
+            }
+        ]
+    },
+
+    "description": {
+        "description": "Test group",
+        "type": "01 - Algemeen"
+    },
+
+    "schedules": [
+        {
+            "cron": "23 12 1 * ? *",
+            "startDate": "2025-10-21T22:00:00.000+00:00",
+            "endDate": null,
+            "nextExecutionDate": "2025-10-21T22:00:00.000+00:00",
+            "type": "-3",
+            "owner": "demo"
+        }
+    ],
+
+    "annotations": [
+            {
+            "user": "demo",
+            "date": "2024-07-04T12:24:45.000+00:00",
+            "note": "Testannotatie no.1"
+            },
+            {
+            "user": "demo",
+            "date": "2024-07-04T12:24:45.000+00:00",
+            "note": "Testannotatie no.2"
+            }
+        ],
+
+    "access": {
+        "displayTarget": true,
+        "accessZone": 0
+    }
+
+	}'
