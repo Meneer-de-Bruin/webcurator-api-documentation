@@ -48,6 +48,8 @@ Example
 				"name" : "TEST - GROUP 2024-07-04T11:36:34.000+00:00"
 		}
 	}'
+
+.. code-block:: linux
 	
 	curl --location 'http://localhost/wct/api/v1/groups' \
 	--header 'Content-Type: application/json' \
