@@ -17,7 +17,7 @@ Body
 
 Response
 --------
-201: OK
+200: OK
 
 .. include:: /guides/apis/descriptions/desc-response-body-empty.rst
 
@@ -35,4 +35,7 @@ Example
 -------
 .. code-block:: linux
 
-  TODO
+  curl \
+  --location --request DELETE 'http://localhost/wct/api/v1/groups/<group-id>/members/<target-id>' \
+  --header 'Authorization: Bearer <token>' \
+  --data ''

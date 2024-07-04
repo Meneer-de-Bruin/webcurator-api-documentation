@@ -1,5 +1,5 @@
 Create Group (POST)
-=====================
+===================
 Create a group.
 
 Request
