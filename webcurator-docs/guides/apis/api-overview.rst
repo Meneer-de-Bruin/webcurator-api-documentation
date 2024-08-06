@@ -27,6 +27,8 @@ Authorisations
    :maxdepth: 1
    
    api-authorisations_GET
+
+.. comment::
    api-authorisation_scope_GET
    
 Flags
